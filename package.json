@@ -1,14 +1,14 @@
 {
-  "name": "understrap-child",
-  "version": "0.5.0",
-  "description": "Basic Child Theme for UnderStrap Theme Framework: https://github.com/holger1411/understrap",
+  "name": "misfist",
+  "version": "1.0.0",
+  "description": "Custom Child Theme",
   "main": "index.js",
   "scripts": {
     "postinstall": "gulp copy-assets"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/holger1411/understrap-child.git"
+    "url": "https://github.com/misfist/misfist.git"
   },
   "keywords": [
     "wordpress",
@@ -17,12 +17,9 @@
     "bootstrap",
     "underscores"
   ],
-  "author": "Holger Koenemann",
-  "license": "GPL-2.0",
-  "bugs": {
-    "url": "https://github.com/holger1411/understrap-child/issues"
-  },
-  "homepage": "https://understrap.com",
+  "author": "Pea",
+  "license": "GPL-3.0",
+  "homepage": "https://misfist.com",
   "dependencies": {
     "bootstrap": "4.0.0",
     "browser-sync": "^2.22.0",

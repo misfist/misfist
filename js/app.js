@@ -3926,3 +3926,13 @@ Object.defineProperty(exports, '__esModule', { value: true });
 		}, false );
 	}
 })();
+
+/**
+ * File custom.js.
+ *
+ */
+
+( function( $ ) {
+
+
+} )( jQuery );
