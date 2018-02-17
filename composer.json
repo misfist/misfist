@@ -1,0 +1,10 @@
+{
+    "name": "misfist/misfist",
+    "description": "Custom Child Theme for UnderStrap Theme Framework",
+    "type": "wordpress-theme",
+    "license": "GPL-3.0",
+    "minimum-stability": "stable",
+    "require": {},
+    "keywords": ["wordpress","theme","bootstrap"],
+    "homepage": "https://github.com/misfist/understrap-child"
+}
